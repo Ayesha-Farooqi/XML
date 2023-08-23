@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure xmlns:j="https://hrcsonline.net/health-categories/">
+
+<health category="human health">
+    <j:name>Mental health</j:name>
+    <j:description>Mental health encompasses emotional, psychological, and social well-being, influencing cognition, perception, and behavior.</j:description>
+    <j:name>Blood</j:name>
+    <j:description>Haematological diseases, anaemia, clotting (including thromboses and venous embolisms) and normal development and function of platelets and erythrocytes</j:description>
+</health>
+<health category="animal health">
+    <j:name>Mental health</j:name>
+    <j:description>Mental health encompasses emotional, psychological, and social well-being, influencing cognition, perception, and behavior.</j:description>
+    <j:name>Blood</j:name>
+    <j:description>Haematological diseases, anaemia, clotting (including thromboses and venous embolisms) and normal development and function of platelets and erythrocytes</j:description>
+</health>
+<health category="plants health">
+    <j:name>Mental health</j:name>
+    <j:description>Mental health encompasses emotional, psychological, and social well-being, influencing cognition, perception, and behavior.</j:description>
+    <j:name>Blood</j:name>
+    <j:description>Haematological diseases, anaemia, clotting (including thromboses and venous embolisms) and normal development and function of platelets and erythrocytes</j:description>
+</health>
+<health category="cromosomes health">
+    <j:name>Mental health</j:name>
+    <j:description>Mental health encompasses emotional, psychological, and social well-being, influencing cognition, perception, and behavior.</j:description>
+    <j:name>Blood</j:name>
+    <j:description>Haematological diseases, anaemia, clotting (including thromboses and venous embolisms) and normal development and function of platelets and erythrocytes</j:description>
+</health>
+</structure>
